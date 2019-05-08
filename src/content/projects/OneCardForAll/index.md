@@ -1,15 +1,14 @@
 ---
 date: '2015-12-01'
-title: 'One Card For All'
+title: 'Bitcoin Ticker'
 image: ''
-github: ''
+github: 'https://github.com/clrkwng/BitcoinTicker'
 external: ''
 tech:
-  - HTML
-  - SCSS
-  - JS
-  - jQuery
+  - Swift
+  - XCode
+  - CocoaPods
 show: 'true'
 ---
 
-Interactive holiday site for MullenLowe built around an algorithm that generated a holiday greeting to each and every person on the planet. Check out this short [video](https://us.mullenlowe.com/work/one-card-for-all/) describing the project.
+Bitcoin price checker app that utilizes CocoaPods to scrape the current price of Bitcoin from the web and show it on the app.
